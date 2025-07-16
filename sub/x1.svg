@@ -25,12 +25,12 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="0.27579837"
-     inkscape:cx="1950.7004"
+     inkscape:cx="516.68181"
      inkscape:cy="1049.6799"
-     inkscape:window-width="2560"
-     inkscape:window-height="1408"
+     inkscape:window-width="1920"
+     inkscape:window-height="1048"
      inkscape:window-x="0"
-     inkscape:window-y="446"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1">
     <inkscape:grid
@@ -87,14 +87,19 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.892px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:18;stroke-dasharray:none;stroke-opacity:1"
-       x="89.509132"
-       y="177.92468"
+       x="46.816204"
+       y="127.92468"
        id="text3"
        inkscape:label="Title"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.892px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:18"
-         x="89.509132"
-         y="177.92468"
-         id="tspan1">X1</tspan></text>
+         x="46.816204"
+         y="127.92468"
+         id="tspan1">X1</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.892px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:18"
+         x="46.816204"
+         y="261.53967"
+         id="tspan2">35-80Hz</tspan></text>
   </g>
 </svg>
